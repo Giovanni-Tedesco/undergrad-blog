@@ -23,8 +23,8 @@ email: giovanni.tedesco@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A blog to capture my ramblings as an undergraduate math student.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: JohnTedesco33
+github_username:  Giovanni-Tedesco
 
 # Build settings
 markdown: kramdown
