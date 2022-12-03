@@ -27,6 +27,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+markdown: kramdown
+usemathjax: true
 theme: minima
 plugins:
   - jekyll-feed
