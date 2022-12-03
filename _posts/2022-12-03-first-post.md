@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome!"
 date:   2022-12-03 16:39:54 -0500
 categories: Miscellaneous
