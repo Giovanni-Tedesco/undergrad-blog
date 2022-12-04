@@ -13,4 +13,5 @@ This blog is going to serve as a way for me to ramble about my adventures throug
 If you'd like to reach me you can always email me at giovanni.tedesco@mail.utoronto.ca.
 
 Happy Reading,
+
 Giovanni
